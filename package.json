@@ -67,6 +67,6 @@
   "dependencies": {
     "libphonenumber-js": "^1.10.55",
     "react-scripts": "^5.0.1",
-    "underscore": "^1.13.6"
+    "underscore": "^1.13.8"
   }
 }
